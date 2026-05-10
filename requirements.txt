@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+yfinance
+finance-datareader
+streamlit
+plotly
+beautifulsoup4
+requests
+python-dotenv
+sqlalchemy
+aiosqlite
+vaderSentiment
