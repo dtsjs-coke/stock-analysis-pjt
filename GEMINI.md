@@ -1,5 +1,8 @@
 # Stock Analysis Project (Binance Style)
 
+> [!IMPORTANT]
+> This project follows the [Root A2A Guidelines](../GEMINI.md). All agent communications must be optimized for token efficiency.
+
 ## Vision
 한국 및 미국 주식을 위한 AI 기반 통합 분석 플랫폼. 실시간 데이터, 기술 지표 분석, AI 감성 분석, 그리고 로직 기반의 자동 투자 시뮬레이션을 제공합니다.
 
